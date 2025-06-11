@@ -43,3 +43,6 @@ console.log("Sum of Prime Numbers:", sumOfPrimes);
 
 module.exports = { addPrimeTest};
 
+function add(a, b) {
+    return a + b;
+}
